@@ -1,0 +1,20 @@
+{
+  "port": "3001",
+  "adminAccount": "admin",
+  "db": {
+    "servername": "127.0.0.1",
+    "DATABASE": "ccSystem",
+    "port": 27017,
+    "authSource": ""
+  },
+  "mail": {
+    "enable": true,
+    "host": "smtp.qq.com",
+    "port": 465,
+    "from": "1023581658@qq.com",
+    "auth": {
+      "user": "1023581658@qq.com",
+      "pass": "gixwamexrgpobfgh"
+    }
+  }
+}
